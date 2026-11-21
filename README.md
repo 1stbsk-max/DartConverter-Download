@@ -7,7 +7,7 @@ DART 편집기에 표와 문장을 옮겨 붙이는 작업 없이, 엑셀에서 
 
 | 항목 | 위치 |
 |---|---|
-| 설치 파일 | [Releases](https://github.com/1stbsk-max/DartConverter-Download/releases/latest)의 `DartConverter-Beta-Setup.zip` |
+| 설치 파일 | trovasupport@gmail.com 으로 요청해 주세요 |
 | 매뉴얼 | [웹에서 보기](https://1stbsk-max.github.io/DartConverter-Download/) |
 
 ## 주요 기능
@@ -24,11 +24,9 @@ DART 편집기에 표와 문장을 옮겨 붙이는 작업 없이, 엑셀에서 
 - 64비트 Microsoft Excel 2021 또는 Microsoft 365
 - 32비트 Excel 과 Excel 2019 이하는 지원하지 않습니다. Excel 의 [파일] > [계정] > [Excel 정보]에서 확인할 수 있습니다.
 
-## 설치 방법
+## 설치 파일 받기
 
-1. Releases 에서 `DartConverter-Beta-Setup.zip`을 내려받아 압축을 풉니다.
-2. `DartConverter-Beta-Setup.exe`를 실행합니다.
-3. 「Windows의 PC 보호」 창이 나타나면 [추가 정보] > [실행]을 눌러 설치를 진행합니다.
+설치 파일은 메일로 보내 드립니다. trovasupport@gmail.com 으로 요청해 주세요.
 
 ## 14일 체험 신청
 
@@ -48,4 +46,4 @@ DART 편집기에 표와 문장을 옮겨 붙이는 작업 없이, 엑셀에서 
 ---
 
 © 2026 Trova. All rights reserved.
-이 저장소에는 설치 파일과 매뉴얼만 있으며, 프로그램은 사용권(라이선스)이 있어야 사용할 수 있습니다.
+이 저장소에는 매뉴얼만 있으며, 프로그램은 사용권(라이선스)이 있어야 사용할 수 있습니다.
